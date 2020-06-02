@@ -14,7 +14,7 @@
 
 		<mule.version>3.8.3</mule.version>
 		<mule.tools.version>1.2</mule.tools.version>
-		<activeMq.version>5.15.2</activeMq.version>
+		<activeMq.version>5.15.12</activeMq.version>
 	</properties>
 
 	<build>
